@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    margin-left:500px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    background-image: radial-gradient(rgb(200, 139, 139)rgb(239, 174, 174),rgb(200, 139, 139));
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+div{
+    text-align: center;
+    border: 6px solid black;
+    border-radius:20px;
+    width:60%;
+    height:250px;
+    background-image: radial-gradient(rgb(215, 136, 239),rgb(154, 87, 175));
+}
+.label1{
+    margin:50px;
+    padding: 30px;
+}
